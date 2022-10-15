@@ -1,0 +1,14 @@
+/*ippoFooter style------------------------------------------------------*/
+#ippoFooter {
+    background: var(--bs-grey-70);
+    max-height: 26px;
+}
+/*end ippoFooter style--------------------------------------------------*/
+
+
+.body{
+    overflow-y: hidden;
+}
+#image2{
+    min-width: 31% !important;
+}
